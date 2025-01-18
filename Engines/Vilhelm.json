@@ -13,7 +13,7 @@
     "test_presets" : {
 
         "default" : {
-            "base_branch"     : "main",
+            "base_branch"     : "master",
             "book_name"       : "Pohl.epd",
             "test_bounds"     : "[0.00, 10.00]",
             "test_confidence" : "[0.05, 0.05]",
